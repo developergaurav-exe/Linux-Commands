@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"Harsh don't know c++";
+    cout<<"I don't know c++";
     return 0;
 }

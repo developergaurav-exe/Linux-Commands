@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    cout<<"Hello Bhadwo ";
-    cout<<"Chutia hai harsh dalla kaika";
+    cout<<"Changed to inoffensive words ";
+    cout<<"OK";
     return 0;
 }
